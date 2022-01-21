@@ -1,6 +1,6 @@
 Nesta aplicação usei JavaScript e um pouco de Node.JS para executar.
 
-O objetivo da aplicação é me mostrar destinos possíveis, e de acordo com informações fornecidas pelo usuário seja possível
+O objetivo da aplicação é me mostrar destinos possíveis e, de acordo com informações fornecidas pelo usuário seja possível
 permitir ou negar a compra para o destino desejado. Seus critérios para julgar são sua idade e se está acompanhado (caso seja menor de idade).
 
 Sendo assim, se o menor de idade não estiver acompanhado, a compra não será realizada.
